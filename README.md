@@ -3,7 +3,6 @@
 I'm a **B.Tech Artificial Intelligence Student** (2nd Year) with a passion for building beautiful and functional web applications. Currently, I'm exploring the intersection of AI and Web Development.
 
 ### 🛠️ Tech Stack
-### 🛠️ Tech Stack
 
 **Languages & Web:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -29,9 +28,9 @@ I'm a **B.Tech Artificial Intelligence Student** (2nd Year) with a passion for b
 - **Smart Calculator**: Advanced calculator with history and dark mode features.
 
 ### 📊 GitHub Stats
-![Harshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitavaishnav7878&show_icons=true&theme=radical)
+![Harshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitavaishnav7878&show_icons=true&theme=radical&hide_border=false)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitavaishnav7878&layout=compact&theme=radical)
 
 ### 📫 Connect with me:
 
