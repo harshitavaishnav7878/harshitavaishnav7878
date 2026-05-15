@@ -26,12 +26,15 @@ I'm a **B.Tech Artificial Intelligence Student** (2nd Year) with a passion for b
 ### 🚀 Projects
 - **Myntra Clone**: A fully responsive e-commerce frontend clone.
 - **Smart Calculator**: Advanced calculator with history and dark mode features.
-
 ### 📊 GitHub Stats
-![Harshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitavaishnav7878&show_icons=true&theme=radical&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitavaishnav7878&layout=compact&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=harshitavaishnav7878&show_icons=true&theme=visual_studio_code" alt="Harshita's Stats" />
+</p>
 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitavaishnav7878&layout=compact&theme=visual_studio_code" alt="Top Languages" />
+</p>
 ### 📫 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-vaishnav-625b58320/)
